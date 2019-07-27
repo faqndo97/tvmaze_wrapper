@@ -6,7 +6,7 @@ require 'tvmaze_wrapper/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'tvmaze_wrapper'
-  spec.version       = SuperDispatch::VERSION
+  spec.version       = TvmazeWrapper::VERSION
   spec.authors       = 'Facundo'
   spec.email         = 'facuespinosa97@gmail.com'
   spec.summary       = 'Ruby wrapper for TvMaze API.'
