@@ -1,0 +1,11 @@
+/.bundle/
+/Gemfile.lock
+/coverage/
+/spec/reports/
+/tmp/
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
+.rspec_status
