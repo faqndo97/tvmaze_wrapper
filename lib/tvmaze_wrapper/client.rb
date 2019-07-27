@@ -3,9 +3,9 @@
 require 'rest-client'
 require 'base64'
 
-module SuperDispatch
+module TvmazeWrapper
   class Client
-    # include ...
+    include Search
 
     def initialize
       @main_resource = RestClient::Resource.new(
